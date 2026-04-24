@@ -1,0 +1,17 @@
+.sm-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+.sm-table th, .sm-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+.sm-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+.sm-table tr:nth-child(even) {
+    background-color: #fafafa;
+}
