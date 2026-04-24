@@ -5,6 +5,16 @@ Mã số sinh viên: [23810310389]
 🎓 Student Manager Plugin for WordPress
 Student Manager là một plugin WordPress nhẹ, được thiết kế để giúp quản trị viên quản lý thông tin sinh viên một cách khoa học thông qua Custom Post Type và Meta Boxes.
 
+## 🖼️ Kết quả thực hiện
+
+| Giao diện Admin |
+| :---: | :---: |
+| ![Admin](./anh/Giao_dien_admin.png) 
+
+| Giao diện Sinh Viên | 
+| :---: | :---: |
+| ![Sinh Vien](./anh/Giao_dien_sinhvien.png) 
+
 📂 Cấu trúc thư mục (Folder Structure)
 Bạn có thể tham khảo cấu trúc file bên dưới để tổ chức mã nguồn:
 
@@ -48,9 +58,4 @@ Tạo một Trang hoặc Bài viết mới, chèn mã [danh_sach_sinh_vien] vào
 🛠️ Yêu cầu kỹ thuật
 WordPress: 5.0 trở lên.
 
-PHP: 7.4 trở lên.
-
-
-Ngày hoàn thành: 24/04/2026
-
-Mẹo nhỏ cho bạn: Để có "ảnh folder" đẹp cho bài báo cáo, bạn nên mở thư mục này bằng VS Code, sau đó sử dụng công cụ chụp màn hình (Windows + Shift + S) chụp lại cột bên trái (Sidebar) của VS Code. Nhìn sẽ rất "pro" và rõ ràng đấy!
+PHP: 7.4 trở lên
