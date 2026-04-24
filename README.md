@@ -8,12 +8,10 @@ Student Manager là một plugin WordPress nhẹ, được thiết kế để gi
 ## 🖼️ Kết quả thực hiện
 
 | Giao diện Admin |
-| :---: | :---: |
 | ![Admin](./anh/Giao_dien_admin.png) 
 
 | Giao diện Sinh Viên | 
-| :---: | :---: |
-| ![Sinh Vien](./anh/Giao_dien_sinhvien.png) 
+| ![Sinh Vien](./anh/Giao_dien_sinh_vien.png) 
 
 📂 Cấu trúc thư mục (Folder Structure)
 Bạn có thể tham khảo cấu trúc file bên dưới để tổ chức mã nguồn:
